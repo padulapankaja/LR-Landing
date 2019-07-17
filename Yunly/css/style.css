@@ -1,0 +1,206 @@
+.navbarCustom {
+  background-color: rgba(243, 243, 243, 0.904);
+  width: 75%; 
+  margin-left: 12%;
+
+}
+
+.nav-link {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.blankSpace {
+  background-color: rgba(243, 243, 243, 0.904);
+  width: 100%;
+  height: 25%;
+  
+}
+.img-responsive {
+  padding: 0%;
+}
+.column {
+  float: left;
+  width: 25%;
+  padding: 0;
+}
+.row::after {
+  clear: both;
+  display: table;
+}
+.row {
+  margin: 0 0.15% 0 0.15%;
+}
+.transparent {
+  background-color: black;
+}
+
+.img-title {
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left: 0;
+  right: 0;
+  top: 65%;
+}
+.box {
+  position: relative;
+}
+.imgName {
+  font-size: 90%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+#overlay {
+  position: fixed; 
+  display: none; 
+  width: 100%; 
+  height: 100%; 
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5); 
+  z-index: 2; 
+  cursor: pointer;
+}
+.slidShowTitle{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    font-weight: 10;
+    font-size: 2rem;
+   
+}
+
+.customColor{
+    background-color: rgba(243, 243, 243, 0.904);
+}
+.card{
+    background-color: rgba(243, 243, 243, 0.904);
+    border: none;
+}
+.card-body{
+    margin-left: 10%;
+}
+.customMargine{
+    margin-left: 5%;
+}
+.textMargineTitle{
+    margin-top: 25%;
+}
+.textMargineTitleTwo{
+    margin-top: -15%;
+}
+.textMargine{
+    padding: 0%;
+    margin-top: -3%;
+    margin-bottom: -1%;
+}
+.btn{
+    border-radius: 2rem;
+    border-color: aqua
+
+}
+
+.achievenemtCollection{
+    margin-left: 5%;
+}
+.customImg{
+    padding: 2%;
+    width: 10%;
+    margin-left: 5%;
+}
+.whatPeopleTitile{
+    text-align: center;
+    margin-bottom: 2%;
+}
+.card-title{
+    font-size: 0.8rem;
+
+}
+.rounded-circle{
+    width: 50%;
+
+}
+.img-card{
+    margin-left: 40%;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    font-size: 0.8rem;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.customLink{
+    color: darkcyan;
+    font-size: 0.8rem;
+    text-align: center;
+
+}
+.customFooter{
+    
+    margin-top: 3%;
+}
+.customFooter2{
+    margin-left: -2%;
+    margin-top: 3%;
+}
+.customColorFooter{
+    background-color:#e6e6e6;
+    color: #999999;
+    
+}
+.tablrColor{
+    color: #999999;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    
+    
+    
+}
+.tablrColor th {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: 0.8rem;
+    margin-left: -2%;
+    padding-bottom: -50%;
+    padding-left: -10%;
+    padding-right:-10%;     
+}
+.tablrColor tr{
+    margin-left: -2%;
+}
+.tablrColor td{
+    margin-top: -10%;
+    font-size: 0.7rem;
+    padding-top: -0%;
+}
+.footerTitles{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+.aboutUsText{
+    margin-bottom: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 0.7rem;
+
+
+}
+.imgOnimage{
+    position: fixed;
+    width: 40%;
+    opacity: 0.5;
+    border-radius: 20%;
+    margin-top: 20%;
+    background-color: white;
+    
+
+}
+.image-overlay {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
